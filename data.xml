@@ -1,0 +1,10 @@
+
+<params>
+  <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+  <excelName>聯電</excelName>
+  <startYear>2020</startYear>
+  <startMonth>1</startMonth>
+  <endYear>2023</endYear>
+  <endMonth>6</endMonth>
+  <stockNo>2303</stockNo>
+</params>
